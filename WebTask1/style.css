@@ -163,7 +163,15 @@ font-weight: 200;
     background-color :rgb(110, 230, 13);
     border:2px solid black
 }
-
+.partner-wrapper2>div >img{
+    margin-bottom:10px;
+}
+.partner-wrapper2 > div > div{
+    display:flex;
+    align-items: center;
+    gap:10px;
+    margin-bottom: 20px;
+}
 .brand .container{
     width:80%;
 }
