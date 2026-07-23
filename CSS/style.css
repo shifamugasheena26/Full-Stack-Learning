@@ -1,0 +1,66 @@
+.parent{
+    width: 400px;
+    height:400px;
+    background-color:rgb(219, 32, 163);
+    position:relative;
+    top:100px;
+    left:100px;
+    border:2px solid rgb(148, 7, 30)
+}
+.child1{
+    width: 80px;
+    height:80px;
+    background-color:rgb(39, 21, 71);
+    position:relative;
+    top:30px;
+    left:30px;
+}
+.child2{
+    width: 80px;
+    height:80px;
+    background-color:rgb(39, 21, 71);
+    position:fixed;
+    top:140px;
+    left:400px;
+}
+.child3{
+    width: 80px;
+    height:80px;
+    background-color:rgb(39, 21, 71);
+    position:fixed;
+    bottom:155px;
+    left:140px;
+}
+.child4{
+    width: 80px;
+    height:80px;
+    background-color:rgb(39, 21, 71);
+    position:relative;
+    top:70px;
+    left:160px;
+}
+.child5{
+    width: 80px;
+    height:80px;
+    background-color:rgb(39, 21, 71);
+    position:relative;
+    top: 130px;
+    left:290px;
+}
+.mini1{
+    width:35px;
+    height:35px;
+    background-color:cadetblue;
+    position:absolute;
+    top:40px;
+    left:40px;
+}
+.mini2{
+    width:35px;
+    height:35px;
+    background-color:cadetblue;
+    position:absolute;
+    bottom:40px;
+    right:40px;
+}
+
